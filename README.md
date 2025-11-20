@@ -25,6 +25,13 @@ Ce convertisseur permet de transformer rapidement ces données en Array PHP ou e
 - TailwindCSS (CDN)<br>
 - Clipboard.js (CDN)<br><br></i>
 
+<b>Installation via NPM :</b><br>
+1- <i>Installer le package globalement :<br></i>
+<pre><code>npm install -g json-php-sql-converter</code></pre>
+2- <i>Lancer le convertisseur depuis votre terminal :<br></i>
+<pre><code>json-php-sql-converter</code></pre>
+3- <i>Coller votre JSON et obtenir PHP Array et SQL INSERT instantanément<br><br></i>
+
 ---
 
 <DIV align="center">
@@ -61,6 +68,13 @@ This tool instantly transforms JSON into PHP arrays or SQL INSERT statements, av
 <i>- PHP + Vanilla JavaScript<br>
 - TailwindCSS (CDN)<br>
 - Clipboard.js (CDN)<br><br></i>
+
+<b>NPM Installation:</b><br>
+1- <i>Install the package globally:<br></i>
+<pre><code>npm install -g json-php-sql-converter</code></pre>
+2- <i>Run the converter from your terminal:<br></i>
+<pre><code>json-php-sql-converter</code></pre>
+3- <i>Paste your JSON and get PHP Array & SQL INSERT instantly<br><br></i>
 
 ---
 
